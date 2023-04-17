@@ -28,6 +28,12 @@ function App() {
       audio.load();
       audio.play();
       setDisplay(soundPath.name);
+      if( id=='Карась крутиться'){
+         setShowIframe(true);
+      }else{
+         setShowIframe(false);
+      }
+
    }
    useEffect(() => {
       document.addEventListener("keydown", handleKeyEvents);
@@ -105,7 +111,7 @@ function App() {
    ));
    return (
       <>
-      {showIframe && <iframe className="video" src="https://www.youtube.com/embed/mdK5Maa0RTI?autoplay=1&controls=0&frameborder=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen muted="true"></iframe>}
+      {showIframe && <iframe className="video" src="https://www.youtube.com/embed/mdK5Maa0RTI?mute=1&autoplay=1&controls=0&frameborder=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>}
       <div className="wrapper">
 
          <div className="buttons-area" >
