@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "96229d79ff66b5540f1b",
+    "revision": "593d7dc7bf09a3f3373a",
     "url": "/soundlizer/static/css/main.009302f3.chunk.css"
   },
   {
-    "revision": "96229d79ff66b5540f1b",
-    "url": "/soundlizer/static/js/main.96229d79.chunk.js"
+    "revision": "593d7dc7bf09a3f3373a",
+    "url": "/soundlizer/static/js/main.593d7dc7.chunk.js"
   },
   {
     "revision": "0a58e1c4ae58131f766e",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/soundlizer/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "58c3df23da9836f40d55dcdce48a8c7f",
+    "revision": "557e02a8b2b3f2f0cf4338c72ab2453c",
     "url": "/soundlizer/index.html"
   }
 ];

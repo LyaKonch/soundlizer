@@ -1,7 +1,7 @@
 {
   "main.css": "/soundlizer/static/css/main.009302f3.chunk.css",
-  "main.js": "/soundlizer/static/js/main.96229d79.chunk.js",
-  "main.js.map": "/soundlizer/static/js/main.96229d79.chunk.js.map",
+  "main.js": "/soundlizer/static/js/main.593d7dc7.chunk.js",
+  "main.js.map": "/soundlizer/static/js/main.593d7dc7.chunk.js.map",
   "static/js/1.0a58e1c4.chunk.js": "/soundlizer/static/js/1.0a58e1c4.chunk.js",
   "static/js/1.0a58e1c4.chunk.js.map": "/soundlizer/static/js/1.0a58e1c4.chunk.js.map",
   "static/js/2.52527dd5.chunk.js": "/soundlizer/static/js/2.52527dd5.chunk.js",
@@ -24,6 +24,6 @@
   "static/media/logo.svg": "/soundlizer/static/media/logo.06e73328.svg",
   "static/css/main.009302f3.chunk.css.map": "/soundlizer/static/css/main.009302f3.chunk.css.map",
   "index.html": "/soundlizer/index.html",
-  "precache-manifest.0083d1ca80c2e8fcd4d20bf83bfa7bf7.js": "/soundlizer/precache-manifest.0083d1ca80c2e8fcd4d20bf83bfa7bf7.js",
+  "precache-manifest.6b3d366405bb2a6dc521037b1af1e337.js": "/soundlizer/precache-manifest.6b3d366405bb2a6dc521037b1af1e337.js",
   "service-worker.js": "/soundlizer/service-worker.js"
 }
